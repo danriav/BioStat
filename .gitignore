@@ -1,0 +1,16 @@
+# Entornos Virtuales
+venv/
+env/
+.env
+
+# Archivos compilados y caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# (Opcional) Puedes descomentar la línea de abajo si decides no subir los datos crudos por privacidad
+# data/raw/
